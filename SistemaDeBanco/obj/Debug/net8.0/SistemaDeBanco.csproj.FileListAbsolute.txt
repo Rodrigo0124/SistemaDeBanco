@@ -1,0 +1,14 @@
+C:\Users\digow\Desktop\Projetos\SistemaDeBanco\SistemaDeBanco\bin\Debug\net8.0\SistemaDeBanco.exe
+C:\Users\digow\Desktop\Projetos\SistemaDeBanco\SistemaDeBanco\bin\Debug\net8.0\SistemaDeBanco.deps.json
+C:\Users\digow\Desktop\Projetos\SistemaDeBanco\SistemaDeBanco\bin\Debug\net8.0\SistemaDeBanco.runtimeconfig.json
+C:\Users\digow\Desktop\Projetos\SistemaDeBanco\SistemaDeBanco\bin\Debug\net8.0\SistemaDeBanco.dll
+C:\Users\digow\Desktop\Projetos\SistemaDeBanco\SistemaDeBanco\bin\Debug\net8.0\SistemaDeBanco.pdb
+C:\Users\digow\Desktop\Projetos\SistemaDeBanco\SistemaDeBanco\obj\Debug\net8.0\SistemaDeBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digow\Desktop\Projetos\SistemaDeBanco\SistemaDeBanco\obj\Debug\net8.0\SistemaDeBanco.AssemblyInfoInputs.cache
+C:\Users\digow\Desktop\Projetos\SistemaDeBanco\SistemaDeBanco\obj\Debug\net8.0\SistemaDeBanco.AssemblyInfo.cs
+C:\Users\digow\Desktop\Projetos\SistemaDeBanco\SistemaDeBanco\obj\Debug\net8.0\SistemaDeBanco.csproj.CoreCompileInputs.cache
+C:\Users\digow\Desktop\Projetos\SistemaDeBanco\SistemaDeBanco\obj\Debug\net8.0\SistemaDeBanco.dll
+C:\Users\digow\Desktop\Projetos\SistemaDeBanco\SistemaDeBanco\obj\Debug\net8.0\refint\SistemaDeBanco.dll
+C:\Users\digow\Desktop\Projetos\SistemaDeBanco\SistemaDeBanco\obj\Debug\net8.0\SistemaDeBanco.pdb
+C:\Users\digow\Desktop\Projetos\SistemaDeBanco\SistemaDeBanco\obj\Debug\net8.0\SistemaDeBanco.genruntimeconfig.cache
+C:\Users\digow\Desktop\Projetos\SistemaDeBanco\SistemaDeBanco\obj\Debug\net8.0\ref\SistemaDeBanco.dll
