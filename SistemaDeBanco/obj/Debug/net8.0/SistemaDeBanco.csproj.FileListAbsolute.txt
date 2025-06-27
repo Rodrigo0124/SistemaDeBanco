@@ -12,3 +12,4 @@ C:\Users\digow\Desktop\Projetos\SistemaDeBanco\SistemaDeBanco\obj\Debug\net8.0\r
 C:\Users\digow\Desktop\Projetos\SistemaDeBanco\SistemaDeBanco\obj\Debug\net8.0\SistemaDeBanco.pdb
 C:\Users\digow\Desktop\Projetos\SistemaDeBanco\SistemaDeBanco\obj\Debug\net8.0\SistemaDeBanco.genruntimeconfig.cache
 C:\Users\digow\Desktop\Projetos\SistemaDeBanco\SistemaDeBanco\obj\Debug\net8.0\ref\SistemaDeBanco.dll
+C:\Users\digow\Desktop\Projetos\SistemaDeBanco\SistemaDeBanco\obj\Debug\net8.0\SistemaDeBanco.sourcelink.json

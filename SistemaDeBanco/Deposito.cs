@@ -19,22 +19,26 @@ namespace SistemaDeBanco
             get;
             private set;
         }
-
-        public Deposito(string nome, int numero)
+        public string Senha
         {
-            Nome = nome;
-            Numero = numero;
-            Saldo = 0.0;
-
+            get;
+            private set;
         }
-        public Deposito(string nome, int numero, double saldo) : this(nome, numero)
+        public Deposito(string nome, int numero, string senha)
         {
-            Saldo = saldo;
+            Numero = numero;
+            Senha = senha;
+            Nome = nome;
+        }
+
+        public Deposito(string nome, int numero, double saldo, string senha) : this(nome, numero, senha)
+        {
+            Depositar(saldo);
         }
 
         public void Depositar(double valor)
         {
-            if(valor <= 0)
+            if (valor <= 0)
             {
                 Console.WriteLine("Valor de depósito inválido!");
                 return;
@@ -50,7 +54,13 @@ namespace SistemaDeBanco
 
         public override string ToString()
         {
-            return "\nOs dados da sua conta são:\nNome: " + Nome + "\n" + "Número da conta: " + Numero + "\n" + "Valor em conta = R$ " + Saldo.ToString("F2", CultureInfo.InvariantCulture);
+            return $@"
+            ===== Dados da Conta =====
+            Nome: {Nome}
+            Número da conta: {Numero}
+            Saldo: R$ {Saldo.ToString("F2", CultureInfo.InvariantCulture)}
+            ===========================
+                                        ";
         }
     }
 }
