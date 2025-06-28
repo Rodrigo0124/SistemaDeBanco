@@ -68,7 +68,9 @@ Quanto deseja depositar em sua conta? Digite: R$ 100
 
 ===== Dados da Conta =====
 Nome: Rodrigo
+
 Número da conta: 3928
+
 Saldo: R$ 100.00
 
 
